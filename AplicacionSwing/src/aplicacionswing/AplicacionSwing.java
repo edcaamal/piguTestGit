@@ -4,6 +4,7 @@ public class AplicacionSwing {
 
     public static void main(String[] args) {
         System.out.println("Test de aplicación con GIT");
+        System.out.println("Prueba de equipo 2");
     }
     
 }
